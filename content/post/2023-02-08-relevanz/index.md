@@ -23,7 +23,7 @@ Die Streuobstfreunde Marburg verwalten unter anderem die Hessenwiese in Marburg-
 ![](aepfel_bild3.PNG)
 Abb. 1: Ansammlung von Apfelsorten, nach Pomologenverein (2014)
 
-Auf einer [interaktiven Karte](seegerkonstantin.github.io/genetische_vielfalt_lokal/2023/02/04/interaktive-map/) sollen nun die verschiedenen Apfelsorten auf der Hessenwiese kurz porträtiert werden, um deren Vielfalt darzustellen.
+Auf einer interaktiven Karte sollen nun die verschiedenen Apfelsorten auf der Hessenwiese kurz porträtiert werden, um deren Vielfalt darzustellen.
 
 </div>
 

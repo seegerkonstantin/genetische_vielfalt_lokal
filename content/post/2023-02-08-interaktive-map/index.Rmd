@@ -671,7 +671,7 @@ leaflet(height=900, width=900) %>%
   addLegend(
   position = "bottomright",
   colors = c("#3b59ec","red"),
-  labels = c("Mit Informationen","Ohne Informationen"), opacity = 1,
+  labels = c("Mit Beschreibung","Ohne Beschreibung"), opacity = 1,
   title = "Apfelbäume auf der Hessenwiese"
 )
 ```
@@ -787,7 +787,7 @@ leaflet(height=900, width=900) %>%
   addLegend(
   position = "bottomright",
   colors = c("#3b59ec","red"),
-  labels = c("Mit Informationen","Ohne Informationen"), opacity = 1,
+  labels = c("Mit Beschreibung","Ohne Beschreibung"), opacity = 1,
   title = "Verbreitung der Apfelbäume der Hessenwiese"
 )
 ```
